@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, Here's what i'm working on! 👋
 
-<!--
-**Mattlump06/Mattlump06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... mattlumpkin06@gmail.com
 
--->
+
